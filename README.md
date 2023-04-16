@@ -17,5 +17,5 @@ Then after you run it and open the html website make sure your MetaMask is conne
 
 Then you can freely use the website to store product details and retreive them using just any one of the information you had previously enjoyed.
 
-We hope you enjoyed our project for the byteVerse hackathon and we thank you for you patience.
+We hope you enjoyed our project for the byteVerse hackathon and we thank you for you patience and taking time to review out project.
 
